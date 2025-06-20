@@ -11,7 +11,7 @@ bd_ticket_guard_client_data生成
 https://creator.douyin.com/web/api/media/aweme/create/
 https://creator.douyin.com/web/api/media/aweme/create_v2/
 
-抖音私信列表, 发送私信消息, 在线可测
+抖音私信列表, 发送私信消息, 在线可测, 抖音自动回复卡片, 自动回复文本, 发送私信, 自动回复图片
 
 https://imapi.douyin.com/v2/conversation/create
 https://imapi.snssdk.com/v1/message/send
